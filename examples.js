@@ -1,6 +1,5 @@
 /**
- * @param {number[]} arr
- * @return {number[]}
+ * Javascript Pancake Sort.
  */
 
  const pancakeSort = function(arr, flips = [], currSize = arr.length) {
